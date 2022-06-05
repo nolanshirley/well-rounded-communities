@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "public": "dist/well-rounded-communities",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
